@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karl Burtram (@kburtram)
-- 👀 I’m interested in computer science, databases and programming languages
-- 🌱 I’m currently learning in the University of Washington Computer Science graduate program various topics, and sometimes things at work too :)
-- 💞️ I’m looking to collaborate on Azure Data Studio
+- 👀 I’m interested in computer science, databases, algorithm design, and programming languages
+- 🌱 I’m currently learning about query performance tuning and generative AI for data tooling.
+- 💞️ I’m looking to collaborate on Azure Data Studio, MSSQL for VS Code, and data tooling in general.
 - 📫 How to reach me kburtram@live.com
 
 <!---
